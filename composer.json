@@ -1,0 +1,30 @@
+{
+  "name": "brayansdt/php-aussieipsum",
+  "description": "Lorem ipsum generator with aussie accent in PHP",
+  "version": "1.0",
+  "type": "library",
+  "keywords": [
+    "aussie",
+    "australian",
+    "lorem",
+    "ipsum",
+    "generator"
+  ],
+  "homepage": "https://github.com/brayansdt/php-aussieipsum",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brayan Dichtl",
+      "email": "brayandt@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "joshtronic/php-loremipsum": "~1.0.0"
+  },
+  "autoload": {
+    "psr-4" : {
+      "Brayansdt\\" : "src/"
+    }
+  }
+}
