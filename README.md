@@ -4,7 +4,7 @@ Aussie Ipsum is a PHP library that generates Lorem ipsum with australian slangs 
 ## Installation
 
 ```sh
-composer require brayansdt/aussie-ipsum
+composer require brayansdt/php-aussieipsum
 ```
 
 ## Examples
